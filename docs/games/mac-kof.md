@@ -27,7 +27,7 @@
 1. 解压后得到 cheat0134 目录，其中有 cheat.zip 以及两个说明文件，请忽略说明文件，不要按照里面的方法走
 2. 将 cheat.zip 重命名为 cheat.dat.zip
 3. 将 cheat.dat.zip 放到 $HOME/Library/Application Support/MAME OS X 目录下
-4. 在能用设置中勾上 Enable cheat
+4. 在通用设置中勾上 Enable cheat
 
 ![enable-cheat](enable-cheat.png)
 
