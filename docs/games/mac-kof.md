@@ -53,5 +53,5 @@
 ## Bonus
 资料合集链接: https://pan.baidu.com/s/18UpSzghfpEAk3pnYpZ2eGQ 密码: bpa4
 
-[MAME OS X](http://mameosx.sourceforge.net/)
-[cheat](http://cheat.retrogames.com/mame_downloads.htm)
+[MAME OS X]: http://mameosx.sourceforge.net/
+[cheat]: http://cheat.retrogames.com/mame_downloads.htm
